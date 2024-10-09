@@ -16,7 +16,7 @@
 
 ::selection {
     color: #fff;
-    background: #007bff;
+    background: #347928;
 }
 
 /* Home - index.html */
@@ -55,7 +55,7 @@
 .start_btn button {
     font-size: 20px;
     font-weight: 500;
-    color: #007bff;
+    color: 347928;
     width: 250px;
     height: 75px;
     padding: 15px 20px;
@@ -146,26 +146,26 @@
 }
 
 .buttons button.restart:hover {
-    background: #0263ca;
+    background: #336e28;
 }
 
 .buttons button.salvar {
     color: #fff;
-    background: #007bff;
+    background: #347928;
 }
 
 .buttons button.salvar:hover {
-    background: #0263ca;
+    background: #295e20;
 }
 
 .buttons button.quit {
-    color: #007bff;
+    color: #347928;
     background: #fff;
 }
 
 .buttons button.quit:hover {
     color: #fff;
-    background: #007bff;
+    background: #347928;
 }
 
 /* END - Home - index.html */
@@ -200,7 +200,7 @@
 }
 
 .quiz_box header .timer {
-    color: #004085;
+    color: #23471d;
     background: #cce5ff;
     border: 1px solid #b8daff;
     height: 45px;
@@ -237,7 +237,7 @@
     bottom: 0px;
     left: 0px;
     height: 3px;
-    background: #007bff;
+    background: #347928;
 }
 
 section {
@@ -274,7 +274,7 @@ section .option_list .option:last-child {
 }
 
 section .option_list .option:hover {
-    color: #004085;
+    color: #2f5a27;
     background: #cce5ff;
     border: 1px solid #b8daff;
 }
@@ -321,7 +321,7 @@ section .option_list .option .icon {
 
 .choice-prefix {
     padding: 1rem 2rem;
-    background-color: #56a5eb;
+    background-color: #49a339;
     color: white;
 }
 
@@ -375,8 +375,8 @@ footer button {
     outline: none;
     color: #fff;
     border-radius: 5px;
-    background: #007bff;
-    border: 1px solid #007bff;
+    background: #347928;
+    border: 1px solid #347928;
     line-height: 10px;
     opacity: 0;
     pointer-events: none;
@@ -385,7 +385,7 @@ footer button {
 }
 
 footer button:hover {
-    background: #0263ca;
+    background: #2a5f21;
 }
 
 footer button.show {
@@ -414,7 +414,7 @@ footer button.show {
 
 .result_box .icon {
     font-size: 100px;
-    color: #007bff;
+    color: #347928;
     margin-bottom: 10px;
 }
 
@@ -450,7 +450,7 @@ footer button.show {
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #007bff;
+    border: 1px solid #347928;
     transition: all 0.3s ease;
 }
 
@@ -486,7 +486,7 @@ footer button.show {
     margin-top: 4rem;
     border: 1.6rem solid white;
     border-radius: 50%;
-    border-top: 1.6rem solid #56a5eb;
+    border-top: 1.6rem solid #4db939;
     width: 12rem;
     height: 12rem;
     animation: spin 2s linear infinite;
