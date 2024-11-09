@@ -62,7 +62,7 @@ let questions = [
       type: "multiple",
       difficulty: "easy",
       question: "Qual é a principal função da biotecnologia agrícola?",
-      answer: "Melhorar a produtividade e resistência das culturas",
+      answer: "Melhorar a produtividade e resistência na agricultura",
       options: [
         "Produzir combustíveis renováveis",
         "Melhorar a produtividade e resistência das culturas",
@@ -76,8 +76,8 @@ let questions = [
       type: "multiple",
       difficulty: "easy",
       question: "Qual é um risco associado ao uso de biotecnologia?",
-      answer: "Contaminação de culturas nativas",
-      options: ["Aumento da biodiversidade", "Contaminação de culturas nativas", "Melhoria da segurança alimentar", "Redução de doenças em plantas"],
+      answer: "Perda involuntária de biodiversidade e ecossistema",
+      options: ["Aumento da biodiversidade", "Perda involuntária de biodiversidade e ecossistema", "Melhoria da segurança alimentar", "Redução de doenças em plantas"],
     },
     ];
   

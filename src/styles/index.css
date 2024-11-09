@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
 :root {
-    background-color: #007bff;
+    background-color: #12ad39;
     font-size: 62.5%;
 }
 
@@ -136,7 +136,7 @@
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #007bff;
+    border: 1px solid #278016;
     transition: all 0.3s ease;
 }
 
